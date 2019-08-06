@@ -1,0 +1,6 @@
+#written by FileProperties
+#Tue Nov 06 14:18:35 CST 2018
+day=21
+file=
+year=2004
+month=4
